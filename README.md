@@ -17,9 +17,9 @@ $ ./orgfile.sh
 
 Parâmetro|Descrição|
 -------------------------------------------------------------------------------|
--o, --origem|Diretório contendo os arquivos a serem movidos.
--d, --destino|Diretório de destino para onde serão movidos os arquivos
--t, --tipo|Define uma extensão ou uma lista de extensões a serem lidas. Se o parâmetro for omitido, aplica em todas as extensões.
+-o, --origem|Diretório contendo os arquivos a serem movidos.|
+-d, --destino|Diretório de destino para onde serão movidos os arquivos|
+-t, --tipo|Define uma extensão ou uma lista de extensões a serem lidas. Se o parâmetro for omitido, aplica em todas as extensões.|
 
 ## Uso
 
